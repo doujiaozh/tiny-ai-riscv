@@ -1,0 +1,18 @@
+# 构建产物
+*.o
+*.obj
+*.exe
+main
+main.exe
+
+# 交叉编译产物
+*.elf
+*.bin
+*.hex
+
+# IDE / 系统
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
